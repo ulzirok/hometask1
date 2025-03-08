@@ -1,0 +1,98 @@
+@media (max-width: 1199.98px){
+  header{
+    padding-top: 230px;
+  } 
+  header .header-text span{
+    font-size: 45px;
+  }
+  .btn-learn{
+    margin-bottom: 120px;
+  }
+}
+@media (max-width: 991.98px){
+  header{
+    padding-top: 200px;
+  } 
+  header .header-text{
+    font-size: 25px;
+  }
+  header .header-text span{
+    font-size: 34px;
+  }
+  .btn-learn{
+    margin-bottom: 100px;
+  }
+  header .menu2 .menu-link2{
+    font-size: 15px;
+  }
+}
+@media (max-width: 767.98px){
+  header{
+    padding-top: 150px;
+  } 
+  header .header-text{
+    font-size: 19px;
+  }
+  header .header-text span{
+    font-size: 25px;
+  }
+  .btn-learn{
+    margin-bottom: 70px;
+  }
+  header .menu2 .menu-link2{
+    font-size: 13px;
+  }
+  .btn-learn{
+    font-size: 14px;
+  }
+}
+@media (max-width: 575.98px){
+  .navbar-light .navbar-toggler{
+    margin-top: 10px;
+  }
+  header{
+    padding-top: 115px;
+  } 
+  header .header-text{
+    font-size: 15px;
+  }
+  header .header-text span{
+    font-size: 19px;
+  }
+  .btn-learn{
+    margin-bottom: 70px;
+  }
+  header .menu2 .menu-link2{
+    font-size: 9px;
+  }
+  .btn-learn{
+    font-size: 10px;
+  }
+  header .menu2 li:not(:first-child){
+    border-left: 1px solid #fff;
+  }
+  header .pause-mute .fa{
+    font-size: 25px;
+  }
+  .section-nav .navbar-brand span{
+    padding-left: 0;
+  }
+  .team .text{
+    margin-bottom: 55px;
+  }
+  .team{
+    padding-bottom: 40px;
+  }
+  .clients{
+    padding-bottom: 35px;
+  }
+  .clients .text span{
+    width: 250px;
+  }
+  .contacts .col-12{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+}
